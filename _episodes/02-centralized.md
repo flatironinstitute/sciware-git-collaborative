@@ -165,7 +165,7 @@ In this file share your favourite cooking recipe or haiku or Git trick or whatev
 
 ```
 $ git add yourusername.txt
-$ git commit
+$ git commit -m "added a file for a feature and stuff"
 ```
 
 *remote*: ![]({{ site.baseurl }}/img/centralized/01-remote.svg)
