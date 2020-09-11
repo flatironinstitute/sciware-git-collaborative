@@ -275,6 +275,7 @@ We will discuss two solutions:
 ```shell
 $ git remote add upstream {{ site.forking_workflow_exercise_url }}.git
 $ git fetch upstream
+$ git branch -va
 ```
 
 *central*: ![]({{ site.baseurl }}/img/forking/github-remote-03.svg)
@@ -286,6 +287,7 @@ $ git fetch upstream
 ```shell
 $ git checkout master
 $ git merge upstream/master
+$ git branch -va
 ```
 
 *central*: ![]({{ site.baseurl }}/img/forking/github-remote-03.svg)
@@ -296,6 +298,7 @@ $ git merge upstream/master
 
 ```shell
 $ git push origin master
+$ git branch -va
 ```
 
 *central*: ![]({{ site.baseurl }}/img/forking/github-remote-03.svg)
