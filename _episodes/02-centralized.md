@@ -185,7 +185,7 @@ Can we leave out the `-u`?
 #### 7. Browse the network of branches and commits
 
 After you have pushed your branch and other participants have too, browse the
-network of branches and commits and discuss with others what you see.
+network of branches and commits and discuss with others what you see. This is on the administrator's GitHub account.
 
 
 #### 8. Submit a pull request
