@@ -187,6 +187,13 @@ message reference the issue which you have opened earlier with "this is my
 commit message; closes #N" (use a more descriptive message and replace N by the
 actual issue number).
 
+```shell
+$ git branch yourname/somefeature
+$ git checkout yourname/somefeature
+$ git add <your taco recipe>.txt
+$ git commit -m "<message>;closes #N"
+```
+
 And here is a picture of what just happened:
 
 *central*: ![]({{ site.baseurl }}/img/forking/github-remote-01.svg)
@@ -202,7 +209,7 @@ Now push your new branch to your fork. Your branch is probably called something 
 "origin" points to.
 
 ```shell
-$ git push origin feature
+$ git push origin yourname/feature
 ```
 
 *central*: ![]({{ site.baseurl }}/img/forking/github-remote-01.svg)
