@@ -145,7 +145,7 @@ This is how it looks after we fork:
 *fork*: ![]({{ site.baseurl }}/img/forking/github-remote-01.svg)
 
 - A fork is basically a (bare) clone.
-- The upstream repo and the fork are in principle independent repositories.
+- The upstream repo and the fork are in principle **independent** repositories.
 - When forking we copy all commits, all branches.
 
 After we clone the fork we have three in principle independent repositories:
@@ -175,7 +175,7 @@ a good reflex and a good practice. Choose a branch name which is descriptive of
 its content.
 
 On the new branch create a new file which will hold your recipe,
-for instance `traditional_coderefinery_tacos.md` (but change the name). You can get inspired
+for instance `traditional_coderefinery_tacos.md` (but change the name so that we will have different recipes in the repo). You can get inspired
 [here](https://github.com/sinker/tacofancy/tree/master/full_tacos). Hopefully we all use different
 file names, otherwise we will experience conflicts later (which is also interesting!).
 
