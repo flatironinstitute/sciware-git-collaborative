@@ -244,19 +244,6 @@ Observe how the issues automatically close after the pull requests are merged
 (provided the commit messages contain [the right keywords](https://help.github.com/en/articles/closing-issues-using-keywords)).
 
 
-> ## (Optional) Exercise: try to send a conflicting pull request
->
-> If you complete parts A-E much earlier than others, try to send another pull request
-> where you anticipate a conflict with your first pull request.
-{: .challenge}
-
-> ## (Optional) Exercise: practice making changes to your pull request
->
-> You can do that by pushing new commits to the branch where you sent the pull
-> request from. Observe how they end up added to your pull request.
-{: .challenge}
-
-
 ### Part F: Update your fork
 
 We do this part **after the contributions from all participants have been integrated**.
