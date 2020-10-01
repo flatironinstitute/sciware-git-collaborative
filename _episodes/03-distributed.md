@@ -314,13 +314,7 @@ $ git pull {{ site.forking_workflow_exercise_url }}.git master
 $ git push https://github.com/user/forking-workflow-exercise.git master
 ```
 
-> ## (Optional) Exercise: squash merge a pull request
->
-> If you complete this exercise much earlier than others, pair up with somebody,
-> create a new repository, fork it, and send a pull request with several
-> small commits. On the other computer accept these with "Squash and merge" and later compare the source
-> and target repositories/branches how they differ after the small commits got squashed into one.
-{: .challenge}
+
 
 ---
 
