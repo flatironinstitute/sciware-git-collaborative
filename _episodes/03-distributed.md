@@ -119,20 +119,10 @@ similar workflows and basically everything that we will discuss is transferable.
 
 ### Part A: Fork and clone
 
-In the **groups/breakout-rooms**, one person like the helper, do a necessary preparatory step. The person creates a repository
-from a template in their GitHub user space. We do not use the templates directly but
-[generate exercises from them](https://help.github.com/en/articles/creating-a-repository-from-a-template).
-Here is the template for forking workflow exercise:
-[https://github.com/coderefinery/template-forking-workflow-exercise](https://github.com/coderefinery/template-forking-workflow-exercise)
-
-Write the link to the newly created repository in the shared document (hackmd)
-under a subsection with your group number as heading.
+In the **breakout-rooms**, one person creates a repository from the template [https://github.com/coderefinery/template-forking-workflow-exercise](https://github.com/coderefinery/template-forking-workflow-exercise) and **write the link** of the newly created repository to the shared document under the subsection of your group.
 
 The others in **the group** fork the helper's newly created repository. The group members then clone the fork ---
-the repository which is created their GitHub user space --- to their own computer.
-
-For the ones of you who follow the **main** room, you first fork [this repository]({{ site.forking_workflow_exercise_url }})
-into your namespace and then clone the fork to your computer.
+**the repository which is created their GitHub user space** --- to their own computer.
 
 Here is a pictorial representation of this part:
 
