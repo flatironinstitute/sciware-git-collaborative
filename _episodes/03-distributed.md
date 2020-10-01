@@ -122,7 +122,7 @@ similar workflows and basically everything that we will discuss is transferable.
 In the **breakout-rooms**, one person creates a repository from the template [https://github.com/coderefinery/template-forking-workflow-exercise](https://github.com/coderefinery/template-forking-workflow-exercise) and **write the link** of the newly created repository to the shared document under the subsection of your group.
 
 The others in **the group** fork the helper's newly created repository. The group members then clone the fork ---
-**the repository which is created their GitHub user space** --- to their own computer.
+**the repository which is created in their GitHub user space** --- to their own computer.
 
 Here is a pictorial representation of this part:
 
