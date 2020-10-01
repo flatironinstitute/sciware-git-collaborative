@@ -77,7 +77,7 @@ generating, importing. Maybe you can suggest a figure?)
 ## Synchronizing changes between repositories
 
 - We need a mechanism to communicate changes between the repositories.
-- We will **pull** or **fetch** updates **from** remote repositories (we will soon discuss the difference between pull and fetch).
+- We will **pull** or **fetch** updates **from** remote repositories.
 - We will **push** updates **to** remote repositories.
 - We will learn how to suggest changes within repositories on GitHub and across repositories.
 - We will learn how to update forks by pulling/fetching changes and pushing them to forks.
